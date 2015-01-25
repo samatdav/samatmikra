@@ -1,0 +1,13 @@
+.bgimage {
+	opacity: 0.8;
+	position: relative;
+}
+.box-1 {
+	background-color: red;
+	height: 200px;
+}
+body {
+	background-image: url("images/header.jpg");
+	color: red;
+	background-color: black;
+}
